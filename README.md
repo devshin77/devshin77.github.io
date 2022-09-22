@@ -1,2 +1,2 @@
 # devshin77.github.io
-public blog
+public [blog](https://devshin77.github.io/blog/)
